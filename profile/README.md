@@ -6,7 +6,7 @@
 
 - **Tracking**: detects TV ads as they air and takes action.
 - **Attribution**: lines TV airings up with app installs and website visits.
-- **Lyzio**: an AI agent that helps plan TV advertising.
+- **Lyzio**: your AI agent that plans your TV advertising.
 
 ## Links
 
